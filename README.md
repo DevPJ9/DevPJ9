@@ -19,8 +19,8 @@ https://dev.to/github/how-to-create-a-github-profile-readme-jha
 -->
 
 <div id="header" align="center">
-![visitors](https://visitor-badge.glitch.me/badge?page_id={DevPJ9}.${579663310})
- </div>
+<a href = "![visitors](https://visitor-badge.glitch.me/badge?page_id={DevPJ9}.${579663310})"></a>
+</div>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevPJ9&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
