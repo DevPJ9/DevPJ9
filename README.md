@@ -18,8 +18,7 @@ website for the info related to editing these redme
 https://dev.to/github/how-to-create-a-github-profile-readme-jha
 -->
 
-<img src = "https://github.com/DevPJ9/DevPJ9/blob/Main_Changes/icons8-github-100.png"/>
-![alt text](https://github.com/DevPJ9/DevPJ9/blob/Main_Changes/icons8-github-100.png?raw=true)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 
 Here is My Github Streak and contribution info : 
 
