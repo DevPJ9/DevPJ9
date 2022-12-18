@@ -19,6 +19,7 @@ https://dev.to/github/how-to-create-a-github-profile-readme-jha
 -->
 
 <img src = "https://github.com/DevPJ9/DevPJ9/blob/Main_Changes/icons8-github-100.png"/>
+![alt text]([http://url/to/img.png](https://github.com/DevPJ9/DevPJ9/blob/Main_Changes/icons8-github-100.png))
 
 Here is My Github Streak and contribution info : 
 
