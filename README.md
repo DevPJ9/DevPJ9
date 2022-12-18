@@ -18,7 +18,7 @@ website for the info related to editing these redme
 https://dev.to/github/how-to-create-a-github-profile-readme-jha
 -->
 
-![visitors](https://visitor-badge.glitch.me/badge?$page_id = {DevPJ9}.${579663310})
+![visitors](https://visitor-badge.glitch.me/badge?page_id={DevPJ9}.${579663310})
 
 Here is My Github Streak and contribution info : 
 
