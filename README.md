@@ -18,7 +18,7 @@ website for the info related to editing these redme
 https://dev.to/github/how-to-create-a-github-profile-readme-jha
 -->
 
-<a href="https://github.com/DevPJ9/DevPJ9/blob/Main_Changes/icons8-github-100.png" target="https://github.com/DevPJ9/DevPJ9/blob/Adding_Socials/Resources/icons8-linkedin-circled-48.png"><img align="center" src="https://github.com/DevPJ9/DevPJ9/blob/main/Resources/icons8-linkedin-circled.gif" height="50" /></a>
+<a href="https://github.com/DevPJ9/DevPJ9/blob/Main_Changes/icons8-github-100.png" target="https://github.com/DevPJ9/DevPJ9/blob/Adding_Socials/Resources/icons8-linkedin-circled-48.png"><img align="center" src="[https://github.com/DevPJ9/DevPJ9/blob/main/Resources/icons8-linkedin-circled.gif](https://github.com/DevPJ9/DevPJ9/blob/Main_Changes/icons8-github-100.png)" height="50" /></a>
 
 Here is My Github Streak and contribution info : 
 
