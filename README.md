@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pranjal Joshi</h1>
 <h3 align="center">A passionate Java Full Stack developer from India</h3>
-
+<img src = "https://github.com/DevPJ9/DevPJ9/blob/main/75ez.gif" width="40" height="40" />
+ 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devpj9&label=Profile%20views&color=0e75b6&style=flat" alt="devpj9" /> </p>
 
 - 🌱 I’m currently learning **Golang, Makefile, Microservices, ReactJS**
