@@ -28,3 +28,5 @@
 <p align = "center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=devpj9&show_icons=true&locale=en" alt="devpj9" /></p>
 
 <p align = "center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devpj9&" alt="devpj9" /></p>
+
+<p align = "center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devpj9&layout=compact" /></p>
