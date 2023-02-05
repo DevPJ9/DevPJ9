@@ -30,4 +30,4 @@
 
 <p align = "center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devpj9&theme=radical" alt="devpj9" /></p>
 
-<p align = "center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devpj9&theme=dark&layout=compact" /></p>
+<p align = "center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devpj9&theme=dark" /></p>
